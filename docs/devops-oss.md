@@ -2,6 +2,8 @@
 
 ## 1 DevOps 介绍
 
+![](../images/devops.png)
+
 ```mermaid
   graph TB
     subgraph 编码阶段
@@ -26,5 +28,3 @@
         B --发布--> 生产服务器
     end
 ```
-
-![](/Volumes/data480/github/fanty/devops-oss/images/devops.png)
